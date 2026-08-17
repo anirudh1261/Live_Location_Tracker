@@ -13,7 +13,7 @@ git clone https://github.com/anirudh1261/Live_Location_Tracker
 cd Live-Location-Tracker
 ```
 
-2. **Install dependen**:
+2. **Install dependencies**:
 ```bash
 npm install
 ```
